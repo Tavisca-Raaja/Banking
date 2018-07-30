@@ -1,0 +1,13 @@
+C:\Users\rgouthaman\source\repos\Banking\Banking\obj\Debug\Banking.csprojResolveAssemblyReference.cache
+C:\Users\rgouthaman\source\repos\Banking\Banking\obj\Debug\Banking.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\Banking.exe.config
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\Banking.exe
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\Banking.pdb
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\DataBaseConnect.dll
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\DataBaseConnect.pdb
+C:\Users\rgouthaman\source\repos\Banking\Banking\obj\Debug\Banking.exe
+C:\Users\rgouthaman\source\repos\Banking\Banking\obj\Debug\Banking.pdb
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\EntityFramework.dll
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\EntityFramework.xml
+C:\Users\rgouthaman\source\repos\Banking\Banking\bin\Debug\EntityFramework.SqlServer.xml

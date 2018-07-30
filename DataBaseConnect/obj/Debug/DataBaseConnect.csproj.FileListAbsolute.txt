@@ -1,0 +1,6 @@
+C:\Users\rgouthaman\source\repos\Banking\DataBaseConnect\bin\Debug\DataBaseConnect.dll
+C:\Users\rgouthaman\source\repos\Banking\DataBaseConnect\bin\Debug\DataBaseConnect.pdb
+C:\Users\rgouthaman\source\repos\Banking\DataBaseConnect\obj\Debug\DataBaseConnect.csprojResolveAssemblyReference.cache
+C:\Users\rgouthaman\source\repos\Banking\DataBaseConnect\obj\Debug\DataBaseConnect.csproj.CoreCompileInputs.cache
+C:\Users\rgouthaman\source\repos\Banking\DataBaseConnect\obj\Debug\DataBaseConnect.dll
+C:\Users\rgouthaman\source\repos\Banking\DataBaseConnect\obj\Debug\DataBaseConnect.pdb
