@@ -81,7 +81,7 @@ namespace Banking
                         cmd.Parameters.AddWithValue("@Balance", AccessPoint.balance);
                         cmd.Parameters.AddWithValue("@Type", AccessPoint.AccType);
                       
-                        cmd.CommandText ="Insertion";
+                        cmd.CommandText ="Insertion"
                         int result = cmd.ExecuteNonQuery();
 
                         if (result > 1)
